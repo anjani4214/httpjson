@@ -1,11 +1,17 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "id":1,
+    "name":"anjani",
+    "age":21
+  },
+  {
+    "id":2,
+    "name":"panks",
+    "age":25
+  },
+  {
+    "id":1,
+    "name":"vara",
+    "age":19
+  },
+]
