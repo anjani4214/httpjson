@@ -1,19 +1,50 @@
 {
- "posts": [
-    {
-      "id": 1,
-      "name": "anjani",
-      "age":25
-    },
-    {
-      "id": 2,
-      "name": "panks",
-      "age":25
-    },
-    {
-      "id": 3,
-      "name": "anju",
-      "age":25
-    }
-  ]
+    "questions": [
+        {
+            "type": "radio",
+            "text": "1. Are you... *",
+            "variables": [
+            "Male",
+            "Female"
+            ]
+        },
+        {
+            "text": "2. How Many People Live In The Household Including You?*",
+            "type": "radio",
+            "variables": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6 or More"
+            ]
+        },
+        {
+            "text": "3. How long have you been with the company?*",
+            "type": "radio",
+            "variables": [
+            "One Year",
+            "Two Years",
+            "Three Years",
+            "Four Years",
+            "Five Years",
+            "More than Five Years"
+            ]
+        },
+        {
+            "text": "4. Which option best describes your age group?*",
+            "type": "radio",
+            "variables": [
+            "Under18",
+            "18 – 24",
+            "25 – 34",
+            "35 – 44",
+            "45 – 54",
+            "55 – 64",
+            "65 or older"
+            ]
+        }
+    ]
 }
+
