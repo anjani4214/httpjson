@@ -1,6 +1,7 @@
 {
     "questions": [
         {
+            "id": 1,
             "type": "radio",
             "text": "1. Are you... *",
             "variables": [
@@ -9,6 +10,7 @@
             ]
         },
         {
+            "id": 2,
             "text": "2. How Many People Live In The Household Including You?*",
             "type": "radio",
             "variables": [
@@ -21,6 +23,7 @@
             ]
         },
         {
+            "id": 3,
             "text": "3. How long have you been with the company?*",
             "type": "radio",
             "variables": [
@@ -33,6 +36,7 @@
             ]
         },
         {
+            "id": 4,
             "text": "4. Which option best describes your age group?*",
             "type": "radio",
             "variables": [
