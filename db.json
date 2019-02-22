@@ -1,5 +1,6 @@
 {
     "questions": [
+        
         {
             "id": 1,
             "type": "radio",
@@ -12,7 +13,7 @@
         {
             "id": 2,
             "text": "2. How Many People Live In The Household Including You?*",
-            "type": "radio",
+            "type": "checkbox",
             "variables": [
             "1",
             "2",
@@ -25,30 +26,52 @@
         {
             "id": 3,
             "text": "3. How long have you been with the company?*",
-            "type": "radio",
-            "variables": [
-            "One Year",
-            "Two Years",
-            "Three Years",
-            "Four Years",
-            "Five Years",
-            "More than Five Years"
-            ]
+            "type": "comment"
         },
         {
-            "id": 4,
-            "text": "4. Which option best describes your age group?*",
-            "type": "radio",
-            "variables": [
-            "Under18",
-            "18 – 24",
-            "25 – 34",
-            "35 – 44",
-            "45 – 54",
-            "55 – 64",
-            "65 or older"
-            ]
+            "id":4,
+            "type": "matrix",
+             "text": "Please indicate if you agree or disagree with the following statements",
+            "variables":[
+                    {
+                    "columns": [
+                        {
+                            "value": 1,
+                            "text": "Strongly Disagree"
+                        }, {
+                            "value": 2,
+                            "text": "Disagree"
+                        }, {
+                            "value": 3,
+                            "text": "Neutral"
+                        }, {
+                            "value": 4,
+                            "text": "Agree"
+                        }, {
+                            "value": 5,
+                            "text": "Strongly Agree"
+                        }
+                    ],
+                    "rows": [
+                        {
+                            "value": "affordable",
+                            "text": "Product is affordable"
+                        }, {
+                            "value": "does what it claims",
+                            "text": "Product does what it claims"
+                        }, {
+                            "value": "better then others",
+                            "text": "Product is better than other products on the market"
+                        }, {
+                            "value": "easy to use",
+                            "text": "Product is easy to use"
+                        }
+                    ]
+                }
+                ]
         }
+        
     ]
+
 }
 
