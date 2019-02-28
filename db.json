@@ -31,7 +31,7 @@
         {
             "id":4,
             "type": "matrix",
-             "text": "Please indicate if you agree or disagree with the following statements",
+             "text": "4. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
