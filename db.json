@@ -68,15 +68,7 @@
                         }
                     ]
                 }
-        },
-        {  
-            "id":5,
-            "type": "rating",
-            "name": "satisfaction",
-            "text": "5. How satisfied are you with the Product?",
-            "isRequired": true
-        },
-        
+        }
     ]
 
 }
