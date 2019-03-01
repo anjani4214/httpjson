@@ -74,7 +74,7 @@
             "id":5,
             "type": "rating",
             "name": "satisfaction",
-            "title": "How satisfied are you with the Product?",
+            "text": "5. How satisfied are you with the Product?",
             "isRequired": true
         },
         
