@@ -30,18 +30,18 @@
         },
         {
             "id": 4,
-            "text": "5. Star Rating*",
+            "text": "4. Star Rating*",
             "type": "starrating"
         },
         {
             "id": 5,
-            "text": "6. Matrix number rating*",
+            "text": "5. Matrix number rating*",
             "type": "numberrating"
         },
         {
             "id":6,
             "type": "matrix",
-             "text": "4. Please indicate if you agree or disagree with the following statements",
+             "text": "6. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
