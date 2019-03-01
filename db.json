@@ -29,7 +29,17 @@
             "type": "comment"
         },
         {
-            "id":4,
+            "id": 4,
+            "text": "5. Star Rating*",
+            "type": "starrating"
+        },
+        {
+            "id": 5,
+            "text": "6. Matrix number rating*",
+            "type": "numberrating"
+        },
+        {
+            "id":6,
             "type": "matrix",
              "text": "4. Please indicate if you agree or disagree with the following statements",
             "variables":[
@@ -69,16 +79,7 @@
                     ]
                 }
                 ]
-            },
-            {
-                "id": 5,
-                "text": "5. Star Rating*",
-                "type": "starrating"
-            },
-            {
-                "id": 6,
-                "text": "6. Matrix number rating*",
-                "type": "numberrating"
             }
+            
     ]
 }
