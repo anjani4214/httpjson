@@ -44,9 +44,14 @@
             "type": "numberrating"
         },
         {
-            "id":7,
+            "id": 7,
+            "text": "7. Date*",
+            "type": "date"
+        },
+        {
+            "id":8,
             "type": "matrix",
-             "text": "7. Please indicate if you agree or disagree with the following statements",
+             "text": "8. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
