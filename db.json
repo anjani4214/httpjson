@@ -30,18 +30,23 @@
         },
         {
             "id": 4,
-            "text": "4. Star Rating*",
-            "type": "starrating"
+            "text": "4. How long have you been with the company?*",
+            "type": "comment"
         },
         {
             "id": 5,
-            "text": "5. Matrix number rating*",
+            "text": "5. Star Rating*",
+            "type": "starrating"
+        },
+        {
+            "id": 6,
+            "text": "6. Matrix number rating*",
             "type": "numberrating"
         },
         {
-            "id":6,
+            "id":7,
             "type": "matrix",
-             "text": "6. Please indicate if you agree or disagree with the following statements",
+             "text": "7. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
