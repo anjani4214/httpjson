@@ -31,7 +31,7 @@
         {
             "id": 4,
             "text": "4. How long have you been with the company?*",
-            "type": "comment"
+            "type": "commentnumber"
         },
         {
             "id": 5,
