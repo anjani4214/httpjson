@@ -84,6 +84,11 @@
             "type": "date"
         },
         {
+            "id": 10,
+            "text": "9. Time*",
+            "type": "time"
+        },
+        {
             "id":10,
             "type": "matrix",
              "text": "10. Please indicate if you agree or disagree with the following statements",
