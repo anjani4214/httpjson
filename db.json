@@ -20,16 +20,34 @@
         },
         {
             "id": 2,
+            "text": "2. What car are you driving?*",
+            "type": "singledropdown",
+            "variables": [
+                "None",
+                "Ford",
+                "Vauxhall",
+                "Volkswagen",
+                "Nissan",
+                "Audi",
+                "Mercedes-Benz",
+                "BMW",
+                "Peugeot",
+                "Toyota",
+                "Citroen"
+            ]
+        },
+        {
+            "id": 3,
             "type": "radio",
-            "text": "2. Are you... *",
+            "text": "3. Are you... *",
             "variables": [
             "Male",
             "Female"
             ]
         },
         {
-            "id": 3,
-            "text": "3. How Many People Live In The Household Including You?*",
+            "id": 4,
+            "text": "4. How Many People Live In The Household Including You?*",
             "type": "checkbox",
             "variables": [
             "1",
@@ -41,34 +59,34 @@
             ]
         },
         {
-            "id": 4,
-            "text": "4. How long have you been with the company?*",
+            "id": 5,
+            "text": "5. How long have you been with the company?*",
             "type": "comment"
         },
         {
-            "id": 5,
-            "text": "5. How long have you been with the company?*",
+            "id": 6,
+            "text": "6. How long have you been with the company?*",
             "type": "commentnumber"
         },
         {
-            "id": 6,
-            "text": "6. Star Rating*",
+            "id": 7,
+            "text": "7. Star Rating*",
             "type": "starrating"
         },
         {
-            "id": 7,
-            "text": "7. Matrix number rating*",
+            "id": 8,
+            "text": "8. Matrix number rating*",
             "type": "numberrating"
         },
         {
-            "id": 8,
-            "text": "8. Date*",
+            "id": 9,
+            "text": "9. Date*",
             "type": "date"
         },
         {
-            "id":9,
+            "id":10,
             "type": "matrix",
-             "text": "9. Please indicate if you agree or disagree with the following statements",
+             "text": "10. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
