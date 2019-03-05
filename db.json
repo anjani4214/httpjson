@@ -1,9 +1,9 @@
 {
     "questions": [
         {
-            "id":11,
+            "id":1,
             "type": "Image",
-             "text": "11. What animal would you like to see first ?",
+             "text": "1. What animal would you like to see first ?",
             "variables":[
                     {
                     "columns": [
@@ -25,8 +25,8 @@
                 ]
             },
         {
-            "id": 1,
-            "text": "1. What car are you driving?*",
+            "id": 2,
+            "text": "2. What car are you driving?*",
             "type": "singledropdown",
             "variables": [
                 "None",
@@ -43,8 +43,8 @@
             ]
         },
         {
-            "id": 2,
-            "text": "2. What car are you driving?*",
+            "id": 3,
+            "text": "3. What car are you driving?*",
             "type": "multidropdown",
             "variables": [
                 "None",
@@ -61,17 +61,17 @@
             ]
         },
         {
-            "id": 3,
+            "id":4 ,
             "type": "radio",
-            "text": "3. Are you... *",
+            "text": "4. Are you... *",
             "variables": [
             "Male",
             "Female"
             ]
         },
         {
-            "id": 4,
-            "text": "4. How Many People Live In The Household Including You?*",
+            "id": 5,
+            "text": "5. How Many People Live In The Household Including You?*",
             "type": "checkbox",
             "variables": [
             "1",
@@ -83,33 +83,33 @@
             ]
         },
         {
-            "id": 5,
-            "text": "5. How long have you been with the company?*",
+            "id": 6,
+            "text": "6. How long have you been with the company?*",
             "type": "comment"
         },
         {
-            "id": 6,
-            "text": "6. How long have you been with the company?*",
+            "id": 7,
+            "text": "7. How long have you been with the company?*",
             "type": "commentnumber"
         },
         {
-            "id": 7,
-            "text": "7. Star Rating*",
+            "id": 8,
+            "text": "8. Star Rating*",
             "type": "starrating"
         },
         {
-            "id": 8,
-            "text": "8. Matrix number rating*",
+            "id": 9,
+            "text": "9. Matrix number rating*",
             "type": "numberrating"
         },
         {
-            "id": 9,
-            "text": "9. Date*",
+            "id": 10,
+            "text": "10. Date*",
             "type": "date"
         },
         {
-            "id": 10,
-            "text": "10. Time*",
+            "id": 11,
+            "text": "11. Time*",
             "type": "time"
         },
         
