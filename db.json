@@ -21,7 +21,7 @@
         {
             "id": 2,
             "text": "2. What car are you driving?*",
-            "type": "singledropdown",
+            "type": "multidropdown",
             "variables": [
                 "None",
                 "Ford",
