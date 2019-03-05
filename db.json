@@ -90,25 +90,6 @@
         },
         {
             "id":11,
-            "text": "11. What animal would you like to see first ?",
-            "variables": [
-                {
-                    "value": "lion",
-                    "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/lion.jpg"
-                }, {
-                    "value": "giraffe",
-                    "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/giraffe.jpg"
-                }, {
-                    "value": "panda",
-                    "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/panda.jpg"
-                }, {
-                    "value": "camel",
-                    "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/camel.jpg"
-                }
-            ]
-        },
-        {
-            "id":12,
             "type": "matrix",
              "text": "10. Please indicate if you agree or disagree with the following statements",
             "variables":[
