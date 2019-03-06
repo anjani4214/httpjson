@@ -20,7 +20,7 @@
             "id":1,
             "type": "RankingDragandDrop",
             "text": "1. Drag and Drop", 
-            "variables": [
+            "items": [
                 "None",
                 "Ford",
                 "Vauxhall",
