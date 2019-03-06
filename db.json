@@ -3,7 +3,7 @@
          {
             "id":14, 
             "type": "matrixsingledropdown",
-             "text": "16. Please indicate if you agree or disagree with the following statements",
+             "text": "14. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
@@ -43,10 +43,16 @@
                 ]
             },
         {
-            "id":1,
+            "id":17,
             "type": "SectionIntroVideo",
             "text": "1.Please watch the full video",
             "videoLink":"http://techslides.com/demos/sample-videos/small.mp4"
+        },
+        {
+            "id":1,
+            "type": "SectionIntroImage",
+            "text": "1.Please check image properly before going forward",
+            "ImageLink":"https://surveyjs.io/Content/Images/examples/image-picker/lion.jpg"
         },
         {
             "id":16,
