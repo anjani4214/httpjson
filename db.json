@@ -6,9 +6,9 @@
             "text": "1.Please check image properly before going forward",
             "ImageLink":"https://surveyjs.io/Content/Images/examples/image-picker/lion.jpg"
         },{
-            "id":1,
+            "id":19,
             "type": "SectionIntroAudio",
-            "text": "1.Please listen the audio carefully", 
+            "text": "19.Please listen the audio carefully", 
             "AudioLink":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
         },
         {
@@ -16,6 +16,18 @@
             "type": "SectionIntroVideo",
             "text": "1.Please watch the full video",
             "videoLink":"http://techslides.com/demos/sample-videos/small.mp4"
+        },{
+            "id":1,
+            "type": "RankingDragandDrop",
+            "text": "1. Drag and Drop", 
+            "variables": [
+                "None",
+                "Ford",
+                "Vauxhall",
+                "Volkswagen",
+                "Nissan",
+                "Audi"
+            ]
         },
                  {
             "id":14, 
