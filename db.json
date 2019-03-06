@@ -74,7 +74,7 @@
             "text": "2. How Many People Live In The Household Including You?*",
             "type": "checkbox",
             "variables": [
-            "1"
+            "1",
             "2",
             "3",
             "4",
