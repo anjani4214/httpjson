@@ -45,7 +45,7 @@
         {
             "id":1,
             "type": "SectionIntroVideo",
-            "text": "Please watch the full video",
+            "text": "1.Please watch the full video",
             "videoLink":"http://techslides.com/demos/sample-videos/small.mp4"
         },
         {
