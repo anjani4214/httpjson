@@ -44,6 +44,12 @@
             },
         {
             "id":1,
+            "type": "SectionIntroVideo",
+            "text": "Please watch the full video",
+            "videoLink":"https://www.youtube.com/watch?v=XPeBqO4yyGk"
+        },
+        {
+            "id":16,
             "type": "matrixmultidropdown",
              "text": "1. Please indicate if you agree or disagree with the following statements",
             "variables":[
