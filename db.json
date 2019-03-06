@@ -21,7 +21,6 @@
             "type": "RankingDragandDrop",
             "text": "1. Drag and Drop", 
             "items": [
-                "None",
                 "Ford",
                 "Vauxhall",
                 "Volkswagen",
