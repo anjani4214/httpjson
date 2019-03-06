@@ -42,12 +42,7 @@
                 }
                 ]
             },
-        {
-            "id":17,
-            "type": "SectionIntroVideo",
-            "text": "1.Please watch the full video",
-            "videoLink":"http://techslides.com/demos/sample-videos/small.mp4"
-        },
+        
         {
             "id":1,
             "type": "SectionIntroImage",
