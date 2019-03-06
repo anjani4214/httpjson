@@ -70,8 +70,8 @@
             ]
         },
         {
-            "id": 2,
-            "text": "2. How Many People Live In The Household Including You?*",
+            "id": 5,
+            "text": "5. How Many People Live In The Household Including You?*",
             "type": "checkbox",
             "variables": [
             "1"
@@ -103,8 +103,8 @@
             "type": "numberrating"
         },
         {
-            "id": 5,
-            "text": "5. Date*",
+            "id": 2,
+            "text": "2. Date*",
             "type": "date"
         },
         {
