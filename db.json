@@ -3,7 +3,7 @@
         {
             "id":18,
             "type": "SectionIntroImage",
-            "text": "1.Please check image properly before going forward",
+            "text": "18.Please check image properly before going forward",
             "ImageLink":"https://surveyjs.io/Content/Images/examples/image-picker/lion.jpg"
         },{
             "id":19,
@@ -14,12 +14,12 @@
         {
             "id":17,
             "type": "SectionIntroVideo",
-            "text": "1.Please watch the full video",
+            "text": "17.Please watch the full video",
             "videoLink":"http://techslides.com/demos/sample-videos/small.mp4"
         },{
-            "id":1,
+            "id":16,
             "type": "RankingDragandDrop",
-            "text": "1. Drag and Drop", 
+            "text": "16. Drag and Drop", 
             "items": [
                 "Ford",
                 "Vauxhall",
@@ -64,9 +64,9 @@
                 }
                 ]
             },{
-            "id":16,
+            "id":15,
             "type": "matrixmultidropdown",
-             "text": "1. Please indicate if you agree or disagree with the following statements",
+             "text": "15. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "id":15 ,
+            "id":1,
             "type": "radio",
-            "text": "15. Are you... *",
+            "text": "1. Are you... *",
             "variables": [
             "Male",
             "Female"
@@ -200,7 +200,7 @@
         {
             "id":11,
             "type": "matrix",
-             "text": "1. Please indicate if you agree or disagree with the following statements",
+             "text": "11. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
@@ -234,7 +234,7 @@
         {
             "id":12,
             "type": "matrixmultiple",
-             "text": "14. Please indicate if you agree or disagree with the following statements",
+             "text": "12. Please indicate if you agree or disagree with the following statements",
             "variables":[
                     {
                     "columns": [
