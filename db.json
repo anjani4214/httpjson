@@ -172,8 +172,8 @@
             "type": "comment"
         },
         {
-            "id": 40, 
-            "text": "40. How long have you been with the company?*",
+            "id": 4, 
+            "text": "4. How long have you been with the company?*",
             "type": "commentnumber"
         },
         {
@@ -187,8 +187,8 @@
             "type": "numberrating"
         },
         {
-            "id": 5,
-            "text": "5. Date*",
+            "id": 50,
+            "text": "50. Date*",
             "type": "date"
         },
         {
